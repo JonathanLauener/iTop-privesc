@@ -1,5 +1,5 @@
 # iTop-privesc
-# A privilege escalation vulnerability I found in the iTop VPN client software. Also my first 0Day
+# A privilege escalation vulnerability I found in the iTop VPN client software.
 
 
 The vulnerability resides in the "Recommended" tab of the client software. If you install another software through the client (the video shows the screen recorder as an example), another user can execute code on behalf of the user installing the new software. Since the client can only be run with administrative privileges, this always leads to privilege escalation.
