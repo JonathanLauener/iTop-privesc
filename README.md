@@ -1,4 +1,4 @@
-# iTop-privesc (MY FIRST 0-DAY!!!)
+# iTop-privesc (MY FIRST 0-DAY!!!) - CVE-2024-53588
 # A privilege escalation vulnerability I found in the iTop VPN client software.
 
 
